@@ -1,6 +1,5 @@
 EXERCICIO
 
-
 1-Lampada:
 
 
