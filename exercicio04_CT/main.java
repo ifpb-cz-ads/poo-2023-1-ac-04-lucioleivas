@@ -30,4 +30,3 @@ public class main {
 			}while(num!=0);
 		}
 	}
-}
