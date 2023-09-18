@@ -1,4 +1,4 @@
-package atividade04;
+package exercicio04-CT;
 import java.util.Scanner;
 
 public class main {
