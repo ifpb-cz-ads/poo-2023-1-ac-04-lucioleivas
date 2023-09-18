@@ -1,4 +1,4 @@
-package atividade04;
+package exercicio04-CT;
 
 public class conta {
 	String nome_titular;
