@@ -1,4 +1,4 @@
-package exercicio04-CT;
+package exercicio04_CT;
 
 public class conta {
 	String nome_titular;
