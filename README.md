@@ -14,7 +14,7 @@ Metodos:Venderlampada();
 Atributos:vitoria,derrota,empate,posicao;
 
 
-Metodos:SubirTime(),RebaixarTime(),jogar();
+Metodos:SubirTime(),RebaixarTime();
 
 
 
